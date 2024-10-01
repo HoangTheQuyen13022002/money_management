@@ -1,0 +1,92 @@
+{
+  "input": "Nhập",
+  "@input": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "calendar": "Lịch",
+  "@calendar": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "report": "Báo cáo",
+  "@report": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "setting": "Cài đặt",
+  "@setting": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "darkAppearance": "Chế độ tối",
+  "@darkAppearance": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "language": "Ngôn ngữ",
+  "@language": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "expense": "Khoản chi",
+  "@expense": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "income": "Khoản thu",
+  "@income": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "date": "Ngày",
+  "@date": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "note": "Ghi chú",
+  "@note": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "amount": "Số tiền",
+  "@amount": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "category": "Danh mục",
+  "@category": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "type": "Phân loại",
+  "@type": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "save": "Lưu",
+  "@save": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "notePlaceholder": "Nhập ghi chú",
+  "@notePlaceholder": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "inputComplete": "Dữ liệu đã được lưu!",
+  "@inputComplete": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "vietnamese": "Tiếng Việt",
+  "@vietnamese": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "english": "Tiếng Anh",
+  "@english": {
+    "type": "text",
+    "placeholders": {}
+  }
+}
